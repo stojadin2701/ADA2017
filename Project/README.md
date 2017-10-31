@@ -1,10 +1,10 @@
 # How to Make or Break a Country
 
-Over the last couple of decades the number of nations on our planet has fluctuated considerably, from 167 widely recognized sovereign states in the 1970s to 195 in this decade. While some nations have aggregated, the noticeable rise in the number of countries is a product of the separation of pre-existing states.
+Over the last couple of decades the number of nations on our planet has fluctuated considerably, from 167 widely recognized sovereign states in the 1970s to 195 in this decade. While some nations have unified, the noticeable rise in the number of countries is a product of the separation of pre-existing states.
 
 There have been a number of volatile fractionalizations in the last few decades. The effects of such hostilities are far reaching and linger on for decades. These repercussions can be felt long after a supposed resolution has been achieved. As such, gaining a better insight into the events that could potentially detect future conflicts of this kind, and their peaceful mediation, before the fact, is a topic of great interest to us.
 
-This project aims to explore the possible similarities and differences in the events preceding both violent unilateral declarations of independence and conflictless dissolutions of nations. We hope to be able to apply our findings to current World events and provide an early indicator of potential future unrest.
+This project aims to explore the possible similarities and differences in the events preceding both violent unilateral declarations of independence and conflictless dissolutions of nations. We hope to be able to apply our findings to current world events and provide an early indicator of potential future unrest.
 
 
 # Research questions
@@ -19,7 +19,7 @@ These are the preliminary research questions, which are subject to change during
 
 
 # Dataset
-The primary dataset that we will use in this project is GDELT - The Global Database of Events, Language, and Tone. This dataset comes in two versions: 1.0 and 2.0: 
+The primary dataset that we will use in this project is GDELT - The Global Database of Events, Language, and Tone. This dataset comes in two versions - 1.0 and 2.0: 
 - The GDELT 1.0 database contains information about newsworthy events that occurred from January 1st, 1979. until the present day. From January 1979 through the end of March 2013, records are stored in monthly and yearly files by the date the event took place. Beginning with April 2013, files are created daily, which provides a huge amount of historical data for our analysis. Also beginning with April 1st 2013. each reported event contains the URL of the news source that reported it. 
 - GDELT 2.0 database records start from February 19th 2015 and are updated every 15 minutes. In addition to the higher number of events, this database also adds media mentions of the specific event that occurred, which can be used to track the discussion about that event in time. Also, this database adds more detailed sentiment analysis to every event and increases the volume of data coming from the Non-Western world, which will also be important in our analysis. 
 
