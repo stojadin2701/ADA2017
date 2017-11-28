@@ -25,11 +25,15 @@ The primary dataset that we will use in this project is GDELT - The Global Datab
 
 Each entry in the dataset contains, among other things, an exhaustive description of the two primary actors which are participating in the event, it's date and location, as well as information about the type of the specified event. This type is the CAMEO (Conflict and Mediation Event Observations) code of the event, which describes in detail the type of the occurred event, (e.g. "Reject accusation, deny responsibility", "Appeal for easing of administrative sanction" or "Express intent to meet or negotiate"). There are hundreds of these codes, which are already grouped by overall theme that can help us increase the accuracy of our analysis.
 
+The information about the actors who are participating in the event are mostly based on the “ISO - 3166 codes”, which is enriched to become the “KEDS Project Actor Codes” set. These codes sometimes have outdated or false values so we will have to create a list of potential aliases for each of the countries we observe.
+
 Another interesting value contained in each event is the "Goldstein score" which tries to capture the theoretical potential impact that type of event will have on the stability of a country. This can possibly be used to "weigh" the impact of an event on the future progression of the socio-political issue at hand.
 
-A supplement database that can be used is the UCDP External Support Dataset. This dataset provides information on the existence, type, and provider of external support for all warring parties, on an annual basis, between 1975 and 2009. This database can be used to enrich the existing data and identify possible foreign interventions in the examined process. Other UCDP datasets that could enrich our analysis are UCDP Conflict Termination Dataset and UCDP Peace Agreement Dataset, which could provide us with some important data points relevant to the further exploration of this subject.
+A supplement database that is used is the UCDP External Support Dataset. This dataset provides information on the existence, type, and provider of external support for all warring parties, on an annual basis, between 1975 and 2009. This database can be used to enrich the existing data and identify possible foreign interventions in the examined process.
 
-Another possible dataset that we would like to explore in the context of this project is the Twitter dataset, however as it is not currently available we cannot definitively determine it's ultimate function. Once it becomes accessible, we intend to take some time to investigate the potential sentiments and events in the post-Twitter era that could refine our dataset for the observed period.
+Currently, the used datasets are UCDP Conflict Termination Dataset and UCDP External Support Dataset which enable us to analyze the conflicts that arise in the period contained in the GDELT database and in the countries that we found out have in some way changed their borders in that period. Other UCDP dataset that could enrich our analysis is UCDP Peace Agreement Dataset, which could provide us with some important data points relevant to the further exploration of this subject.
+
+We decided not to use the Twitter dataset because the number of post-Twitter events that we are analyzing is miniscule and the connection of the GDELT and Twitter dataset would be made much more difficult by the fact that for each instance in the GDELT dataset we would have thousands of entries in the Twitter dataset.
 
 # A list of internal milestones up until project milestone 2
 
@@ -49,10 +53,10 @@ In conclusion, this period is going to be the one that helps us gain a greater u
 
 During the next three weeks we plan on finalizing our analysis.
 
-Our work during the **first week of December** would entail accessing the complete dataset via the cluster (if it becomes available there) or by some other means. Parallel to that, we plan on exploring the data even more and finding the best way to combine and filter the GDELT events and combine them with the UCDP datasets.
+Our work during the **first week of December** would entail accessing the complete dataset via the cluster (if it becomes available there) or by some other means. Parallel to that, we plan on exploring the data even more and finding the best way to filter and analyze the GDELT events and combine them with the UCDP datasets.
 
 By the end of the **second week of December**, we plan on completing the full analysis of each of the observed countries in our datasets.
 
-Finally, in the **third week of December** we will see whether we can apply the insights from our analysis to the regions that are currently showing signs of possible independence, possibly applying some Machine Learning techniques to observe and predict future trends.
+Finally, in the **week before the deadline** we will see whether we can apply the insights from our analysis to the regions that are currently showing signs of possible independence, possibly applying some Machine Learning techniques to observe and predict future trends.
 
 # Questions for TAs
