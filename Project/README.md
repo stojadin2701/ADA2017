@@ -6,14 +6,6 @@ There have been a number of volatile fractionalizations in the last few decades.
 
 This project aims to explore the possible similarities and differences in the events preceding both violent unilateral declarations of independence and conflictless dissolutions of nations. We hope to be able to apply our findings to current world events and provide an early indicator of potential future unrest.
 
-{% raw %}
-<iframe width="900" height="520" frameborder="0" src="https://milenafilipovic.carto.com/builder/8f6a5259-7a51-4a0c-8719-3ef3b72fceb5/embed" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen align="middle"></iframe>
-{% endraw %}
-	
-
-Eritrea par godina
-<iframe width="900px" height="520" frameborder="0" src="https://milenafilipovic.carto.com/builder/6c4f34d1-12d7-46e4-bcd3-b42188e7fac2/embed" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen align="middle">></iframe>
-
 
 # Research questions
 These are the preliminary research questions, which are subject to change during the subsequent stages of the project.
