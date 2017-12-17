@@ -60,3 +60,6 @@ By the end of the **second week of December**, we plan on completing the full an
 Finally, in the **week before the deadline** we will see whether we can apply the insights from our analysis to the regions that are currently showing signs of possible independence, possibly applying some Machine Learning techniques to observe and predict future trends.
 
 # Questions for TAs
+
+<iframe width="100%" height="520" frameborder="0" src="https://milenafilipovic.carto.com/builder/9a7d2acb-8b3c-4f25-9db2-66a3c9acd38c/embed" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+
