@@ -1,0 +1,28 @@
+Country,Country before border change,CAMEO,FIPS
+United China,People's Republic of China,CHN,CH
+United China,Republic of China,TWN|twn,TW
+United Republic of Cyprus,Republic of Cyprus|Turkish Republic of Northern Cyprus,CYP,CY|CY01|CY02
+East African Federation,Burundi,BDI,BY
+East African Federation,Kenya,KEN,KE
+East African Federation,Rwanda,RWA,RW
+East African Federation,Tanzania,TZA,TZ
+East African Federation,Uganda,UGA,UG
+East African Federation,South Sudan,SSD,OD
+Unified Korea,North Korea,PRK|kor,KN
+Unified Korea,South Korea,KOR|kor,KS
+Catalonia,Spain,ESP,SP|SP56
+Donetsk,Ukraine,UKR,UP|UP05
+Luhansk,Ukraine,UKR,UP|UP14
+Scotland,United Kingdom,GBR,UK
+Northern Ireland,United Kingdom,GBR,UK
+Wales,United Kingdom,GBR,UK
+Kurdistan,Iraq,IRQ|IRQKURKDP|IRQKUR|KUR|kur,IZ
+Kurdistan,Turkey,TUR|TURREBPKK|TURKUR|kur,TU
+Kurdistan,Syria,SYR|kur,SY
+Kurdistan,Iran,IRN,IR
+Veneto,Italy,ITA,IT|IT20
+Flanders,Belgium,BEL,BE|BE01|BE05|BE08|BE12|BE09
+Basque Country,Spain,ESP|ESPBSQ|baq,SP
+Basque Country,France,FRA|baq,FR
+Quebec,Canada,CAN,CA|CA10
+Republika Srpska,Bosnia and Herzegovina,BIH|bos|BIHBHF|BIHSRP|YUGBSN,BK|YO01|BK02
