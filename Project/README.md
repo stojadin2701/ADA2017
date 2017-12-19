@@ -93,7 +93,10 @@ The fact that unifications, as one of the most peaceful types of border changes,
 In the examples of African countries, it can be observed that most of the border changing cases are accompanied by at least some amount of violent events. Luckily, acts of unconventional mass violence and assault are very rare, and the summed amount of verbal events is still larger than the amount of violent altercations. Again, not surprisingly, it can be concluded that the unifications are followed by the lowest amount of fighting and violence.
 
 
+## The end, or not? ##
 
+In the end of the analysis, with the help of several classification algorithms some of the countries with history of separation or unification movements were analyzed, according to the number of events by type that occurred in them in previous period and the overall tone of these events. The way the algorithm suggested borders of these countries will change in future can be observed in the following table.
 
+<p align="center"><img src="report/table.png" alt="Image" width = "90%" height = "90%" align="middle"/></p>
 
-
+Maybe we will all witness some new changes in the country borders in the following years. The only hope that remains is that they will be followed by more intentions for cooperation, and less violent outings.
