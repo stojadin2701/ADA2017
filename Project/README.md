@@ -66,10 +66,10 @@ From the map it can be observed that the support was not just limited to the int
 ## Africa ##
 
 GBR
-<iframe style="display:inline" width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~MilenaFilipovic/34.embed"></iframe>
+<iframe style="display:inline" width="50%" height="50%" frameborder="0" scrolling="no" src="//plot.ly/~MilenaFilipovic/34.embed"></iframe>
 
 ZWE
-<iframe style="display:inline" width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~MilenaFilipovic/32.embed"></iframe>
+<iframe style="display:inline" width="50%" height="50%" frameborder="0" scrolling="no" src="//plot.ly/~MilenaFilipovic/32.embed"></iframe>
 
 
 
