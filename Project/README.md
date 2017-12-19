@@ -40,13 +40,13 @@ Some of the countries had more than one border change in the observed period, so
 
 After observing the countries that underwent a border change, it is important to understand all of the public events that preceded and accompanied alterations in territorial integrity. The radar chart below is used to showcase the distribution of the event types in different types of border changes. Different types of border changes are demonstrated in different colors, while different event types are positioned along the circle border.
 
-<p align="center"><img src="report/radar_first.png" alt="Image" width = "100%" height = "100%" align="middle"/></p>
+<p align="center"><img src="report/radar_first.png" alt="Image" width = "130%" height = "130%" align="middle"/></p>
 
 There are 20 types of events that can occur in the observed countries and they can have different meaning and positive or negative implications. These event types are: Appeal, Assault, Coerce, Consult, Demand, Disapprove, Engage in Diplomatic Cooperation, Engage in Material Cooperation, Engage in Unconventional Mass Violence, Exhibit Military Posture, Express Intent to Cooperate, Fight, Investigate, Make Public Statement, Protest, Provide Aid, Reduce Relations, Reject, Threaten and Yield. What immediately becomes obvious is the fact that the Consult event is the one that happens most often, regardless of the border change type. This event type is so widespread that it makes over 25% of all of the events that happened in the observed period, and makes the understanding of the distribution of other events harder to examine. Because of this fact, we created a new radar chart which again displays the distributions of the event types, just excluding the type Consult.
 
-<p align="center"><img src="report/radar_second.png" alt="Image" width = "100%" height = "100%" align="middle"/></p>
+<p align="center"><img src="report/radar_second.png" alt="Image" width = "130%" height = "130%" align="middle"/></p>
 
-New version of the radar chart greatly facilitates the recognition of other important event types. Some other event types like Engage in Diplomatic Cooperation, Make Public Statement and Express Intent To Cooperate are again widespread regardless of the border change type. Contrary to these, the most prominent aggressive event type is Fight, which is significantly more common in the border changes that are results of separation or breakaway states. It is nice to see that even in the conditions of border changing, which could have a large effect on the nations that live in the affected regions, countries still gravitate toward more peaceful solutions like consulting and cooperation, rather than engaging in violent altercations.
+New version of the radar chart greatly facilitates the recognition of other important event types. Some other event types like Engage in Diplomatic Cooperation, Make Public Statement and Express Intent To Cooperate are again widespread regardless of the border change type. Contrary to these, the most prominent aggressive event type is Fight, which is significantly more common in the border changes that are results of separation or breakaway states. It is nice to see that even in the conditions of border changing, which could have a large effect on the nations that live in the affected regions, countries still gravitate toward more peaceful solutions like consulting and cooperation, rather than engaging in violent altercations. We can conclude that even though types of border changes have very different premises and are sometimes proclaimed with violence, events that precede them have similar distributions. The only potential indicator is the number of events of type Fight that occur in the area before the official border change takes place, since these are commonly followed by the separation or breakaway state which are usually more violent.
 
 Since there is that many types of events that occurred in the countries that faces border changes, it is important to analyze possible correlations that could appear between them. Following heatmap displays Pearson correlation coefficient between different types of events. Observed coefficient can demonstrate both positive and negative correlation (depending on whether the increase of one variable increases or decreases the other variable) and different strengths of the correlation (if the absolute value of the correlation is between 0 and 0.3 the correlation is considered small, between 0.3 and 0.5 – medium, and between 0.5 and 1 – strong). The stronger the hue of the square found on the intersection of two event types is, the stronger the correlation is.
 
@@ -66,10 +66,10 @@ From the map it can be observed that the support was not just limited to the int
 ## Africa ##
 
 GBR
-<iframe style="display:inline" width="50%" height="50%" frameborder="0" scrolling="no" src="//plot.ly/~MilenaFilipovic/34.embed"></iframe>
+<iframe style="display:inline" width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~MilenaFilipovic/34.embed"></iframe>
 
 ZWE
-<iframe style="display:inline" width="50%" height="50%" frameborder="0" scrolling="no" src="//plot.ly/~MilenaFilipovic/32.embed"></iframe>
+<iframe style="display:inline" width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~MilenaFilipovic/32.embed"></iframe>
 
 
 
