@@ -69,9 +69,6 @@ From the map it can be observed that the support was not just limited to the int
 ZWE
 <iframe style="display:inline" width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~MilenaFilipovic/32.embed"></iframe>
 
-SSD
-<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~MilenaFilipovic/28.embed"></iframe>
-
 SOM
 <iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~MilenaFilipovic/26.embed"></iframe>
 
