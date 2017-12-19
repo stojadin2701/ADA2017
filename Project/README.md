@@ -65,36 +65,25 @@ From the map it can be observed that the support was not just limited to the int
 
 ## Africa ##
 
-GBR
-<iframe style="display:inline" width="400" height="350" frameborder="0" scrolling="no" src="//plot.ly/~MilenaFilipovic/34.embed"></iframe>
 
 ZWE
-<iframe style="display:inline" width="400" height="350" frameborder="0" scrolling="no" src="//plot.ly/~MilenaFilipovic/32.embed"></iframe>
+<iframe style="display:inline" width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~MilenaFilipovic/32.embed"></iframe>
 
-
-
-SDN
-<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~MilenaFilipovic/30.embed"></iframe>
 SSD
 <iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~MilenaFilipovic/28.embed"></iframe>
 
 SOM
 <iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~MilenaFilipovic/26.embed"></iframe>
 
-
-
-ZAF
-<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~MilenaFilipovic/22.embed"></iframe>
 NAM
 <iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~MilenaFilipovic/20.embed"></iframe>
 
 SEN
 <iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~MilenaFilipovic/24.embed"></iframe>
+
 GAM
 <iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~MilenaFilipovic/18.embed"></iframe>
 
-ETH
-<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~MilenaFilipovic/16.embed"></iframe>
 ERI
 <iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~MilenaFilipovic/14.embed"></iframe>
 
