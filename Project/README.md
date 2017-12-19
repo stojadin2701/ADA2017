@@ -1,4 +1,4 @@
-# How to Make or Break a Country #
+# How to Make or Break a Country
 
 ## Why are the borders even important? ##
 Geographical elements throughout history have had significant influence on the way people behave. Among many natural and human-invented geographical concepts, country borders have evolved to become not only geographical figures, but also political creatures. This makes them likely to bring crucial consequences in domestic and international administrations, all around the world. Although most of the leading experts in this field are currently in a debate about whether state borders are becoming obsolete or even more important in the age of globalization, current state of affairs implies that this topic is becoming even more significant than throughout history.
@@ -35,6 +35,47 @@ Types of border changes were classified according to the situations that resulte
 
 
 Some of the countries had more than one border change in the observed period, so they belong to several types, which was marked by separate color in this map. There are also short explanations of the events that led to the independence of countries or their current conditions available at the end of each popup balloon. Even though this map provides an extensive overview of border changes across the world it is important to note that some of the breakaway states could not be represented since they are not considered to be even autonomous regions in their “parent” countries, so their borders are not precisely defined.
+
+
+
+
+## Yugoslavia ##
+
+<iframe width="100%" height="520" frameborder="0" src="https://milenafilipovic.carto.com/builder/97fb000a-697b-45aa-a2f2-c91e11cc5b72/embed" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+
+
+## Africa ##
+
+GBR
+<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~MilenaFilipovic/34.embed"></iframe>
+ZWE
+<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~MilenaFilipovic/32.embed"></iframe>
+
+SDN
+<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~MilenaFilipovic/30.embed"></iframe>
+SSD
+<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~MilenaFilipovic/28.embed"></iframe>
+
+SOM
+<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~MilenaFilipovic/26.embed"></iframe>
+
+
+
+ZAF
+<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~MilenaFilipovic/22.embed"></iframe>
+NAM
+<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~MilenaFilipovic/20.embed"></iframe>
+
+SEN
+<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~MilenaFilipovic/24.embed"></iframe>
+GAM
+<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~MilenaFilipovic/18.embed"></iframe>
+
+ETH
+<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~MilenaFilipovic/16.embed"></iframe>
+ERI
+<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~MilenaFilipovic/14.embed"></iframe>
+
 
 
 

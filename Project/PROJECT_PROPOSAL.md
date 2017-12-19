@@ -1,4 +1,4 @@
-# How to Make or Break a Country
+# How to Make or Break a Country - Project Proposal
 
 Over the last couple of decades the number of nations on our planet has fluctuated considerably, from 167 widely recognized sovereign states in the 1970s to 195 in this decade. While some nations have unified, the noticeable rise in the number of countries is a product of the separation of pre-existing states.
 
