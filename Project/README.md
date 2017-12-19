@@ -63,23 +63,35 @@ Considering those limitations, next part of the analysis is focused on the Balka
 
 From the map it can be observed that the support was not just limited to the international relations of cooperation, but also that many of the help missions were based on similarities in religion within the population of two countries. Most of the foreign assistance happened in the period from 1992 to 1995 which was marked with the so called “Yugoslav Wars”. It is also important to mention that the dissolution of Yugoslavia still did not end, since there are still many separatist movements across regions of the mentioned countries.
 
-## Africa ##
+## Come closer ##
 
+Because none of the overall distributions of events have shown any significant differences between types of border changes, further analysis is used to “zoom” in the problem for a bit, and only observe the countries in Africa. This continent was chosen because almost all of the observed types of border changes are present (all except communism) in some of the countries from Africa. Only seven types of events were observed in the analysis, in order to facilitate the understanding of presented graphs. These events were chosen to represent three groups: positive verbal events (Express Intent to Cooperate), negative verbal events (Appeal, Disapprove, Threaten) and violent events (Assault, Fight, Engage in Unconventional Mass Violence).
 
-ZWE
+Firstly, Zimbabwe was observed as an example of decolonization. Period from 1979 to 1981 was observed, since this is the period in which the country gained international recognition as an inYdependent state.
+
 <iframe style="display:inline" width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~MilenaFilipovic/32.embed"></iframe>
 
-SOM
+From the graph, it is visible that the change of borders was preceded by many violent events, especially fights. After the period of violence, came the period of international negotiations, which can be noticed in the growing amount of events that promote intentions to cooperate. Unfortunately, the official change of border was not followed by the period of peace and prosperity, but again in the rising amount of violence that might have been caused by unrest known as Gukurahundi.
+
+On the other hand Somalia, faced the breakaway state situation when Somaliland proclaimed independence in unilaterally in 1991. The period that is observed for this country is from 1986 to 1993.
+
 <iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~MilenaFilipovic/26.embed"></iframe>
 
-NAM
+The events registered in Somalia in the 1980s are showing that this was the period of mixed violent and cooperative efforts in the country. In 1991 and following years the Somaliland area declared independence and the county went into a civil war, which can be observed by the rise of the events of fighting (in 1993 over three times larger amount than in the previous period) and in the rise of the expressions of intent to cooperate (in 1993 over 5 times larger amount than in the previous period).
+
+In another example, in 1990 Namibia gained independence from years of occupation by German and South African forces. This means that the country had type of border change called separation. The observed period for this country was from 1985 until 1992.
+
 <iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~MilenaFilipovic/20.embed"></iframe>
 
-SEN
+The graph shows that during the whole period the country mostly relied on verbal expressions to display its appeals or intentions to cooperate. In 1988, South Africa agreed to allow Namibia’s transition to independence, and this period of change can be explain significant rise in the number of expressed intentions for cooperation, as Namibia needed to reestablish its sovereignty, probably with help of other neighboring countries.  In 1989 and 1990 many peace keeping forces were deployed to supervise elections and military withdrawals from Namibia. Unfortunately, the data suggests that even with all of these efforts, number of fights that occurred in 1989 jumped over 5 times compared to previous years.
+
+In the end, the only example of unification in Africa was Senegambia, loose confederation consisted of Senegal and Gambia. It was founded in 1982, but dissolved in 1989 after political conflicts between the countries. The unification will be observed through the events present in Senegal, in the period from 1985 to 1992.
+
 <iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~MilenaFilipovic/24.embed"></iframe>
 
-ERI
-<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~MilenaFilipovic/14.embed"></iframe>
+The fact that unifications, as one of the most peaceful types of border changes, usually do not involve that many violent events is obvious in the example of Senegal. Most of the events in Senegal in the examined period are verbal and largely devoted to expressing intents to cooperate. The only period of fighting events occurs in 1989, which is the year in which Senegal dissolved the confederation.
+In the examples of African countries, it can be observed that most of the border changing cases are accompanied by at least some amount of violent events. Luckily, acts of unconventional mass violence and assault are very rare, and the summed amount of verbal events is still larger than the amount of violent altercations. Again, not surprisingly, it can be concluded that the unifications are followed by the lowest amount of fighting and violence.
+
 
 
 
