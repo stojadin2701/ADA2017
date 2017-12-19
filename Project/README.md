@@ -1,65 +1,41 @@
 # How to Make or Break a Country
 
-Over the last couple of decades the number of nations on our planet has fluctuated considerably, from 167 widely recognized sovereign states in the 1970s to 195 in this decade. While some nations have unified, the noticeable rise in the number of countries is a product of the separation of pre-existing states.
+Why are the borders even important?
+Geographical elements throughout history have had significant influence on the way people behave. Among many natural and human-invented geographical concepts, country borders have evolved to become not only geographical figures, but also political creatures. This makes them likely to bring crucial consequences in domestic and international administrations, all around the world. Although most of the leading experts in this field are currently in a debate about whether state borders are becoming obsolete or even more important in the age of globalization, current state of affairs implies that this topic is becoming even more significant than throughout history.
 
-There have been a number of volatile fractionalizations in the last few decades. The effects of such hostilities are far reaching and linger on for decades. These repercussions can be felt long after a supposed resolution has been achieved. As such, gaining a better insight into the events that could potentially detect future conflicts of this kind, and their peaceful mediation, before the fact, is a topic of great interest to us.
+Using two datasets that in some manner collect information of the important political, economical and social events across the world, this study is trying to showcase the important border changes that occurred in the period after 1979 and the types of events that preceded them.
 
-This project aims to explore the possible similarities and differences in the events preceding both violent unilateral declarations of independence and conflictless dissolutions of nations. We hope to be able to apply our findings to current world events and provide an early indicator of potential future unrest.
+Even though this may not seem obvious from every day newspapers and TV programs, over the last couple of decades the number of nations on our planet has fluctuated considerably, from 167 widely recognized sovereign states in the 1970s to 195 in this decade. While some nations have unified, the noticeable rise in the number of countries is a product of the separation of pre-existing states. It is important to observe all of the changes that have appeared in these regions in order to better understand the tensions that are now rising in some new localities.
 
+The information shown in our further analysis is primarily based on the data collected as a part of the GDELT (The Global Database of Events, Language, and Tone) project. The idea of this project was to collect the information about important people, locations, organizations, events etc. impacting the public scene from numerous media outlets in over 1000 languages from across every country on the planet.  Its historical archives stretch back to January 1, 1979 and update every 15 minutes.
 
-# Research questions
-These are the preliminary research questions, which are subject to change during the subsequent stages of the project.
+Additionally, the UCDP External Support Dataset was used to display some of the important international cooperation relations that come to light in the events of border changing. This dataset provides information on the existence, type, and provider of external support for all parties, on an annual basis, between 1975 and 2009.
 
- - Is it possible to detect differences in the patterns of socio-political behaviour that precede both violet unilateral and nonviolent declarations of independence?
-
- - Do unilateral declarations of independence have similar or diverging preceding paths?
-
- - Are there recognizable patterns of behaviour that occur in the current independence movements across the globe (e.g. Catalonia, Scotland…)?
+In the end, none of the datasets offered information about the types and years of border changes throughout the world, so the information from Wikipedia was used to narrow down the observed events in both datasets to only those countries who actually went through some kind of change in territorial integrity. Articles from Wikipedia were also used to help in the process of recognizing the types of border changes.
 
 
+# Border changes from 1979 to 2017
 
-# Dataset
-The primary dataset that we will use in this project is GDELT - The Global Database of Events, Language, and Tone. This dataset comes in two versions - 1.0 and 2.0:
-- The GDELT 1.0 database contains information about newsworthy events that occurred from January 1st, 1979. until the present day. From January 1979 through the end of March 2013, records are stored in monthly and yearly files by the date the event took place. Beginning with April 2013, files are created daily, which provides a huge amount of historical data for our analysis. Also beginning with April 1st 2013. each reported event contains the URL of the news source that reported it.
-- GDELT 2.0 database records start from February 19th 2015 and are updated every 15 minutes. In addition to the higher number of events, this database also adds media mentions of the specific event that occurred, which can be used to track the discussion about that event in time. Also, this database adds more detailed sentiment analysis to every event and increases the volume of data coming from the Non-Western world, which will also be important in our analysis.
-
-Each entry in the dataset contains, among other things, an exhaustive description of the two primary actors which are participating in the event, it's date and location, as well as information about the type of the specified event. This type is the CAMEO (Conflict and Mediation Event Observations) code of the event, which describes in detail the type of the occurred event, (e.g. "Reject accusation, deny responsibility", "Appeal for easing of administrative sanction" or "Express intent to meet or negotiate"). There are hundreds of these codes, which are already grouped by overall theme that can help us increase the accuracy of our analysis.
-
-The information about the actors who are participating in the event are mostly based on the “ISO - 3166 codes”, which is enriched to become the “KEDS Project Actor Codes” set. These codes sometimes have outdated or false values so we will have to create a list of potential aliases for each of the countries we observe.
-
-Another interesting value contained in each event is the "Goldstein score" which tries to capture the theoretical potential impact that type of event will have on the stability of a country. This can possibly be used to "weigh" the impact of an event on the future progression of the socio-political issue at hand.
-
-A supplement database that is used is the UCDP External Support Dataset. This dataset provides information on the existence, type, and provider of external support for all warring parties, on an annual basis, between 1975 and 2009. This database can be used to enrich the existing data and identify possible foreign interventions in the examined process.
-
-Currently, the used datasets are UCDP Conflict Termination Dataset and UCDP External Support Dataset which enable us to analyze the conflicts that arise in the period contained in the GDELT database and in the countries that we found out have in some way changed their borders in that period. Other UCDP dataset that could enrich our analysis is UCDP Peace Agreement Dataset, which could provide us with some important data points relevant to the further exploration of this subject.
-
-We decided not to use the Twitter dataset because the number of post-Twitter events that we are analyzing is miniscule and the connection of the GDELT and Twitter dataset would be made much more difficult by the fact that for each instance in the GDELT dataset we would have thousands of entries in the Twitter dataset.
-
-# A list of internal milestones up until project milestone 2
-
-In the next period we intend to focus on detailed analysis of the provided datasets that will be used in our project.
-
-The main intention would be to find all of the features that could have a significant correlation with the phenomena we are exploring, and all of the limitations we could overcome by enriching our final dataset with other complementary datasets.
-
-The first phase would include the further investigation of the data in the GDELT dataset and this step should be completed during the **first week of November**. The overall plan would include the recognition of the most important columns and event types that could be useful for the analysis. We would also devote a significant amount of time to clean all of the possible inconsistencies and transform the data so that it is more suitable for further wrangling and merging with other datasets, since this database will be the basis for our reasoning.
-
-The second phase would be more inclined toward the research of the data in the UCDP dataset and this step should be completed during the **second week of November**. Most of the analysis of the UCDP dataset would be focused on the identification of events and conflicts that demonstrate the existence of the phenomenon in a country, and merging the extracted data with the dataset from previous phase.
-
-The third phase would be directed toward the inspection of the potentially useful data in the Twitter and complementary datasets, so this step is going to be unfolding after the previous phases are finished, in the **last weeks of November**. The main motive would be to finalize the dataset for this project by including some unbiased evidence that could improve the inferences in the following steps of the analysis.
-
-In conclusion, this period is going to be the one that helps us gain a greater understanding of all the datasets we plan on using. Our main goal is to develop a unified dataset that is cleaned, pre-processed and ready for upcoming analysis.
-
-# A list of internal milestones up until project milestone 3
-
-During the next three weeks we plan on finalizing our analysis.
-
-Our work during the **first week of December** would entail accessing the complete dataset via the cluster (if it becomes available there) or by some other means. Parallel to that, we plan on exploring the data even more and finding the best way to filter and analyze the GDELT events and combine them with the UCDP datasets.
-
-By the end of the **second week of December**, we plan on completing the full analysis of each of the observed countries in our datasets.
-
-Finally, in the **week before the deadline** we will see whether we can apply the insights from our analysis to the regions that are currently showing signs of possible independence, possibly applying some Machine Learning techniques to observe and predict future trends.
-
-# Questions for TAs
+The map below is supposed to illustrate all of the states that have emerged after some kind of border change after 1. January of 1979. By clicking on some of the “newly-created countries” (the term newly-created might not be appropriate in all of the cases, since some of these countries existed in some point in history, but were part of a unification or occupied for significant periods of time which ended after 1979) you can see the basic information about the selected country. For each country, the popup balloon shows the official new name of the country, the year in which the country emerged and the countries that existed on that territory before border change occurred. Countries are colored according to the type of border change that happened on that territory. 
 
 <iframe width="100%" height="520" frameborder="0" src="https://milenafilipovic.carto.com/builder/9a7d2acb-8b3c-4f25-9db2-66a3c9acd38c/embed" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+
+
+Types of border changes were classified according to the situations that resulted in the alterations of the territorial integrity into:
+
+	* Communist is used to represent the countries that emerged as a result of decomposition of large socialist/communist countries.
+
+	* Decolonization is used to represent the countries that emerged as a result of the last steps of decolonization.
+
+	* Breakaway is used to represent the states that have declared their independence, but are not internationally recognized as sovereign.
+
+	* Separation is used to represent the countries that emerged as a result of political or military conflict, or because they were freed from occupation.
+
+	* Unification is used to represent the countries that emerged as a result of a unification of other previously existing countries.
+
+
+Some of the countries had more than one border change in the observed period, so they belong to several types, which was marked by separate color in this map. There are also short explanations of the events that led to the independence of countries or their current conditions available at the end of each popup balloon. Even though this map provides an extensive overview of border changes across the world it is important to note that some of the breakaway states could not be represented since they are not considered to be even autonomous regions in their “parent” countries, so their borders are not precisely defined.
+
+
+
 
